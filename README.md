@@ -1,1 +1,1 @@
-# University-Cource-Registration-System
+# University-Course-Registration-System
