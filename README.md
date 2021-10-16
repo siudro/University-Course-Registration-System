@@ -4,7 +4,6 @@ members. The application can be used by:
 - Conveners
 - Lecturers
 - TA (Teaching Assistant)s
-- Students
  
 Here's the output:
 ![output](https://user-images.githubusercontent.com/83130573/137534891-d20da2f0-48cd-40ff-87c1-01fad96dafc4.jpeg)
